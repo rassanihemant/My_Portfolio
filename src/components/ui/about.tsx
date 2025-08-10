@@ -45,9 +45,9 @@ export function About() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <p className="text-gray-300 mb-6 leading-relaxed">
-              I'm a passionate MERN stack developer currently working at Belmeo,
-              where I design and develop scalable web applications. With a
-              strong foundation in Computer Science from Comsats University
+              I&apos;m a passionate MERN stack developer currently working at
+              Belmeo, where I design and develop scalable web applications. With
+              a strong foundation in Computer Science from Comsats University
               Islamabad, I combine theoretical knowledge with practical
               experience to deliver exceptional results.
             </p>
@@ -58,10 +58,10 @@ export function About() {
               complements my full-stack development skills perfectly.
             </p>
             <p className="text-gray-300 leading-relaxed">
-              When I'm not coding, I enjoy working on freelance projects through
-              UpWork, where I've successfully completed multiple projects,
-              helping clients bring their ideas to life with modern web
-              technologies.
+              When I&apos;m not coding, I enjoy working on freelance projects
+              through UpWork, where I&apos;ve successfully completed multiple
+              projects, helping clients bring their ideas to life with modern
+              web technologies.
             </p>
           </div>
 
