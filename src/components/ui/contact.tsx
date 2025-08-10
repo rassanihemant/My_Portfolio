@@ -59,8 +59,8 @@ export function Contact() {
             Get In Touch
           </h2>
           <p className="text-lg text-gray-400 max-w-3xl mx-auto">
-            Ready to collaborate on your next project? Let's discuss how I can
-            help bring your ideas to life.
+            Ready to collaborate on your next project? Let&apos;s discuss how I
+            can help bring your ideas to life.
           </p>
         </div>
 
@@ -127,13 +127,14 @@ export function Contact() {
             <Card className="bg-gray-900 border-gray-700 shadow-lg">
               <CardContent className="p-8">
                 <h3 className="text-2xl font-bold text-white mb-4">
-                  Let's Work Together
+                  Let&apos;s Work Together
                 </h3>
                 <p className="text-gray-300 mb-6 leading-relaxed">
-                  I'm always interested in new opportunities and exciting
-                  projects. Whether you're looking for a full-stack developer,
-                  need help with a specific project, or want to discuss
-                  potential collaboration, I'd love to hear from you.
+                  I&apos;m always interested in new opportunities and exciting
+                  projects. Whether you&apos;re looking for a full-stack
+                  developer, need help with a specific project, or want to
+                  discuss potential collaboration, I&apos;d love to hear from
+                  you.
                 </p>
 
                 <div className="space-y-4 mb-6">
