@@ -45,7 +45,7 @@ export function Hero() {
           <p className="text-lg text-gray-300 max-w-3xl mx-auto mb-8 leading-relaxed">
             Passionate full-stack developer specializing in MERN stack
             technologies with strong algorithmic problem-solving skills.
-            Currently working at Belmeo, building scalable web applications and
+            Currently working at Blemeo, building scalable web applications and
             delivering innovative solutions for complex challenges.
           </p>
 

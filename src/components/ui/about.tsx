@@ -46,7 +46,7 @@ export function About() {
           <div>
             <p className="text-gray-300 mb-6 leading-relaxed">
               I&apos;m a passionate MERN stack developer currently working at
-              Belmeo, where I design and develop scalable web applications. With
+              Blemeo, where I design and develop scalable web applications. With
               a strong foundation in Computer Science from Comsats University
               Islamabad, I combine theoretical knowledge with practical
               experience to deliver exceptional results.
